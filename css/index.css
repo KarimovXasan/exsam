@@ -127,21 +127,66 @@
     text-align: center;
 }
 
-.divboy{
+.divboy {
     text-align: center;
 }
 
 
-.btn-main{
+.btn-main {
     padding: 11px 12px;
     border: none;
     border-radius: 5px;
     background-color: #DC780B;
 }
 
-.cards{
-    display: flex;  
-}
-.cards2{
+.cards {
     display: flex;
+}
+
+.cards2 {
+    display: flex;
+}
+
+.take {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: #E8A45B;
+}
+
+.right {
+    display: flex;
+}
+
+.iphone14pro {
+    display: flex;
+    justify-content: space-around;
+}
+
+.b-tag {
+    font-family: Philosopher;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.button1{
+    border: none;
+    background-color: #150C01;
+    border-radius: 5px;
+    padding: 11px 28px;
+    color: white;
+}
+
+.button2{
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    padding: 11px 28px;
 }
